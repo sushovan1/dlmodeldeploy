@@ -1,0 +1,5 @@
+fastapi==0.88.0
+numpy==1.26.4
+tensorflow==2.16.1
+keras==3.3.3
+uvicorn==0.23.2
